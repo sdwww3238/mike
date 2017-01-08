@@ -1,0 +1,66 @@
+[ 2017-01-06T18:00:20+08:00 ] 127.0.0.1 /index.php/thinkphp/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+ERR: 无法加载模块:Thinkphp
+
+[ 2017-01-06T19:54:56+08:00 ] 127.0.0.1 /index.php/thinkphp/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+ERR: 无法加载模块:Thinkphp
+
+[ 2017-01-06T20:00:14+08:00 ] 127.0.0.1 /index.php/touchme/thinkphp/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+ERR: 无法加载模块:Touchme
+
+[ 2017-01-06T20:01:21+08:00 ] 127.0.0.1 /index.php/touchme/thinkphp/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+ERR: 无法加载模块:Touchme
+
+[ 2017-01-06T20:01:22+08:00 ] 127.0.0.1 /index.php/touchme/thinkphp/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001028s ]
+ERR: 无法加载模块:Touchme
+
+[ 2017-01-06T20:01:23+08:00 ] 127.0.0.1 /index.php/touchme/thinkphp/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+ERR: 无法加载模块:Touchme
+
+[ 2017-01-06T20:01:23+08:00 ] 127.0.0.1 /index.php/touchme/thinkphp/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+ERR: 无法加载模块:Touchme
+
+[ 2017-01-06T20:01:41+08:00 ] 127.0.0.1 /index.php/touchme
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+ERR: 无法加载模块:Touchme
+
+[ 2017-01-06T22:03:19+08:00 ] 127.0.0.1 /index.php/User/edit/editOk.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+ERR: 无法加载模块:User
+
+[ 2017-01-06T22:03:31+08:00 ] 127.0.0.1 /index.php/User/edit/editOk.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+ERR: 无法加载模块:User
+
+[ 2017-01-06T22:03:33+08:00 ] 127.0.0.1 /index.php/User/edit/editOk.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+ERR: 无法加载模块:User
+
