@@ -8,7 +8,7 @@
 // +----------------------------------------------------------------------
 // | Author: liu21st <liu21st@gmail.com>
 // +----------------------------------------------------------------------
-
+phpinfo();
 // 应用入口文件
 
 // 检测PHP环境
@@ -23,4 +23,6 @@ define('WORKING_PATH',str_replace('\\','/',__DIR__));
 define('UPLOAD_ROOT_PATH','/Public/Upload/');
 // 引入ThinkPHP入口文件
 require './ThinkPHP/ThinkPHP.php';
+
+
 

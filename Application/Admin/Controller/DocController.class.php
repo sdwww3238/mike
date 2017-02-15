@@ -21,7 +21,7 @@ class DocController extends CommonController{
         $upload=new \Think\Upload($cfg);
         if($file['size']>0){
             $info=$upload->uploadOne($file);
-           // dump($info);die;
+            // dump($info);die;
             if($info){
                 $post['hasfile']=1;
                 $post['filename']=$info['savename'];
